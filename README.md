@@ -7,7 +7,7 @@
  
  • Na prvom obrázku z mozaiky aplikujete funkciu kernel masky na každý pixel (v rozmere 3x3) - operáciu realizujte už v existujúcej mozaike [1 b.].
  
- • Druhú snímku otočte o90° pomocou využitia for cyklu. [0,5b.].
+ • Druhú snímku otočte o 90° pomocou využitia for cyklu. [0,5b.].
  
  • Na treťom obrázku zobrazte s RGB len červený kanál [0,5b.].
  
